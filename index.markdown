@@ -39,7 +39,7 @@ Currently I'm in the midst of writing my proposal under the supervision of [Dr. 
     <h2 id="Education">Education</h2>
     <ul>
       <li><p>MSc in Artificial Intelligence Engineering at University of Tehran, Tehran, GPA 18.29/20, 2022-Present</p></li>
-      <li><p>BSc in Computer Engineering at Babol Noshirvani University of Technology, Mazandaran, GPA 17.38/20 (4.0/4.0), 2016-2021</p></li>
+      <li><p>BSc in Computer Engineering at Babol Noshirvani University of Technology, Mazandaran, GPA 17.38/20, 2016-2021</p></li>
     </ul>
   </div>
 </div>
