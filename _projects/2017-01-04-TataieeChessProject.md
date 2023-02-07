@@ -9,5 +9,5 @@ Tataiee Chess Project is a graphical chess game which I wrote to help beignner d
 
 **Programming Languages and Technologies:** C#, Windows Forms Application
 
-**Member(s):** Taha Rostami
-**[codes and more information (Available)](https://github.com/TahaRostami/Toy_Projects/tree/main/Tataiee.ChessProject)**
+**Member(s):** Sara Rostami
+**[codes and more information (Available)](https://github.com/SaraRostami/Toy_Projects/tree/main/Tataiee.ChessProject)**

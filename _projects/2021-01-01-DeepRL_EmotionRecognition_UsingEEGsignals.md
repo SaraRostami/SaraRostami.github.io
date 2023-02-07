@@ -10,6 +10,6 @@ This is a project that I collaborated on with a friend. We used Deep Reinforceme
 
 **Programming Languages and Technologies:** Python, Stable-baselines
 
-**Member(s):** Sara Rostami, Taha Rostami, Hesam Omranpour
+**Member(s):** Sara Rostami, Sara Rostami, Hesam Omranpour
 
 **[codes and more information ( Available)](https://github.com/SaraRostami/DeepRL_EmotionRecognition_UsingEEGsignals)**

@@ -18,6 +18,6 @@ This is a simple web scrapper program for scrapping Tripadvisor and collecting d
 
 **Programming Languages and Technologies:** Python
 
-**Member(s):** Taha Rostami
+**Member(s):** Sara Rostami
 
-**[codes and more information ( Available)](https://github.com/TahaRostami/Toy_Projects/tree/main/TripadvisorWebScraper/S)**
+**[codes and more information ( Available)](https://github.com/SaraRostami/Toy_Projects/tree/main/TripadvisorWebScraper/S)**

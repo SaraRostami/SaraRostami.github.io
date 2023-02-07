@@ -15,6 +15,6 @@ ChessVariable is a website created by me for the purpose of automatic money tran
 
 **Programming Languages and Technologies:** C#, Microsoft SQL Server, ASP.NET CORE, Redis, Javascript, Html5, CSS3
 
-**Member(s):** Taha Rostami
+**Member(s):** Sara Rostami
 
 **[codes and more information ( not Available)](#)**

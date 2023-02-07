@@ -9,6 +9,6 @@ Tatimobile is a Arduino-based simple control car that I created for my cousin Ho
 
 **Programming Languages and Technologies:** Arduino, C#, Windows Forms Application
 
-**Member(s):** Taha Rostami
+**Member(s):** Sara Rostami
 
-**[codes and more information ( Available)](https://github.com/TahaRostami/Toy_Projects/blob/main/Tatimobile/tatimobile.JPG)**
+**[codes and more information ( Available)](https://github.com/SaraRostami/Toy_Projects/blob/main/Tatimobile/tatimobile.JPG)**

@@ -9,6 +9,6 @@ This is a simple tic-tac-toe game which I wrote to teach my student how she can 
 
 **Programming Languages and Technologies:** Python
 
-**Member(s):** Taha Rostami
+**Member(s):** Sara Rostami
 
-**[codes and more information ( Available)](https://github.com/TahaRostami/Toy_Projects/tree/main/Tic-Tac-Toe)**
+**[codes and more information ( Available)](https://github.com/SaraRostami/Toy_Projects/tree/main/Tic-Tac-Toe)**

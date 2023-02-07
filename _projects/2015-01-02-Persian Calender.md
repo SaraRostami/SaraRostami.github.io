@@ -9,6 +9,6 @@ This is a custom Persian calender written from scratch for the Abnama project.
 
 **Programming Languages and Technologies:** C#, Windows Forms Application
 
-**Member(s):** Taha Rostami, Masoud Golkani
+**Member(s):** Sara Rostami, Masoud Golkani
 
 **[codes and more information ( not Available)](#)**

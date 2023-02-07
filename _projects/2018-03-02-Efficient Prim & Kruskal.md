@@ -9,6 +9,6 @@ Efficient implementations of Prim and Kruskal algorithms to compare their perfor
 
 **Programming Languages and Technologies:** C#
 
-**Member(s):** Taha Rostami
+**Member(s):** Sara Rostami
 
 **[codes and more information ( not Available)](#)**

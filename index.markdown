@@ -55,7 +55,7 @@ Reading, Movies, Cooking, Ballet, Gymnastics, Painting
   <div class="w3-col l6 m6 s12 w3">
     <h2 id="Find Me!">Find Me!</h2>
     <ul>
-      <li><p><a href="https://www.linkedin.com/in/taha-rostami-3079881a9/">Linkedin</a></p></li>
+      <li><p><a href="https://www.linkedin.com/in/Sara-rostami-3079881a9/">Linkedin</a></p></li>
       <li><p><a href="https://github.com/SaraRostami">Github</a></p></li>
     </ul>
   </div>

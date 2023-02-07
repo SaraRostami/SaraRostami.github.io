@@ -9,6 +9,6 @@ Implementation of a simple compiler and IDE for [TSLANG](http://nit.rudi.ir/962/
 
 **Programming Languages and Technologies:** C#, Windows Forms Application
 
-**Member(s):** Taha Rostami
+**Member(s):** Sara Rostami
 
 **[codes and more information ( not Available)](#)**

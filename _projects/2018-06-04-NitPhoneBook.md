@@ -16,6 +16,6 @@ In this project, we propose a recursive algorithm that can print the given data 
 
 **Programming Languages and Technologies:** C#, Windows Presentation Foundation, Microsoft SQL Server
 
-**Member(s):** Taha Rostami, Behzad Pesaraklou, Amirhossein Majidi, Pourya Asgarianpour, Adnan Shahabi
+**Member(s):** Sara Rostami, Behzad Pesaraklou, Amirhossein Majidi, Pourya Asgarianpour, Adnan Shahabi
 
-**[codes and more information ( Available)](https://github.com/TahaRostami/NitPhonebook)**
+**[codes and more information ( Available)](https://github.com/SaraRostami/NitPhonebook)**

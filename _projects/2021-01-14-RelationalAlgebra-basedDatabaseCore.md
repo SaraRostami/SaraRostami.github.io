@@ -9,6 +9,6 @@ Relational Algebra-based Database Core is a simple program which supports Select
 
 **Programming Languages and Technologies:** Python
 
-**Member(s):** Taha Rostami
+**Member(s):** Sara Rostami
 
-**[codes and more information ( Available)](https://github.com/TahaRostami/Toy_Projects/tree/main/relational_algebra_based_db_core)**
+**[codes and more information ( Available)](https://github.com/SaraRostami/Toy_Projects/tree/main/relational_algebra_based_db_core)**

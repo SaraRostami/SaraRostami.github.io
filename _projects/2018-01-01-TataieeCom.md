@@ -9,6 +9,6 @@ TataieeCom was a personal website I wrote for myself.
 
 **Programming Languages and Technologies:** C#, ASP.NET Core, Microsoft SQL Server, Javascript, Bootstrap
 
-**Member(s):** Taha Rostami
+**Member(s):** Sara Rostami
 
 **[codes and more information ( not Available)](#)**
