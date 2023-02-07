@@ -30,8 +30,8 @@ To prove that WHO hosts this data, I searched for a website named <a href="https
 
 **Application Language(s):** N/A
 
-**Programming Languages and Technologies:** Python
+**Programming Languages and Technologies:** Python, Matlab
 
-**Member(s):** Sara Rostami
+**Member(s):** Sara Rostami, Mohammad Oladian, Keyhan Rayati
 
 **[codes and more information ( N/A)](#)**
