@@ -8,5 +8,5 @@ permalink: /projects/
 
 # Projects
 
-Throughout these years, I wrote some programs and participated in some projects. Here, I selected some of them.
+These are some of my selected projects and homeworks that I've done for my university courses.
 

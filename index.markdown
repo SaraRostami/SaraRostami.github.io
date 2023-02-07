@@ -30,17 +30,16 @@ Currently I'm in the midst of writing my proposal under the supervision of [Dr. 
     <h2 id="research-interests">Research Interests</h2>
     <ul>
       <li><p>Neuroscience</p></li>
-	<li><p>Data Science</p></li>
+	    <li><p>Data Science</p></li>
       <li><p>Machine Learning Algorithms</p></li>	  
       <li><p>Decision-making Under Uncertainty</p></li>
-      <li><p>Complexity Theory & Designing Algorithms</p></li>
     </ul>       
   </div>
   <div class="w3-col l6 m6 s12">
     <h2 id="Education">Education</h2>
     <ul>
-      <li><p>MSc in Software Engineering at Tarbiat Modares University, Tehran, GPA 18.05/20 (3.88/4.0), 2019-2022</p></li>
-      <li><p>BSc in Software Engineering at Babol Noshirvani University of Technology, Mazandaran, GPA 16.83/20 (3.55/4.0), 2014-2019</p></li>
+      <li><p>MSc in Artificial Intelligence Engineering at University of Tehran, Tehran, GPA 18.29/20, 2022-Present</p></li>
+      <li><p>BSc in Computer Engineering at Babol Noshirvani University of Technology, Mazandaran, GPA 17.38/20 (4.0/4.0), 2016-2021</p></li>
     </ul>
   </div>
 </div>
@@ -49,7 +48,7 @@ Currently I'm in the midst of writing my proposal under the supervision of [Dr. 
 Persian, English
 
 # Hobbies and Interests
-Chess, History, Literature, Painting, Calligraphy, Watching Youtube
+Reading, Movies, Cooking, Ballet, Gymnastics, Painting
 
 
 <div class="w3-row">
@@ -57,16 +56,15 @@ Chess, History, Literature, Painting, Calligraphy, Watching Youtube
     <h2 id="Find Me!">Find Me!</h2>
     <ul>
       <li><p><a href="https://www.linkedin.com/in/taha-rostami-3079881a9/">Linkedin</a></p></li>
-      <li><p><a href="https://github.com/TahaRostami">Github</a></p></li>
-      <li><p><a href="https://gist.github.com/TahaRostami">Gist</a></p></li>
+      <li><p><a href="https://github.com/SaraRostami">Github</a></p></li>
     </ul>
   </div>
   <div class="w3-col l6 m6 s12 w3">
     <h2 id="Contact Me">Contact Me</h2>
       <ul>
-        <li><p>Email: taha.rostami.darunkola@gmail.com</p></li>
-        <li><p>Email: taha.rostami@modares.ac.ir</p></li>
-        <li><p>Phone: +98 911 778 4216</p></li>
+        <li><p>Email: sararostami.da98@gmail.com</p></li>
+        <li><p>Email: sara.rostami@ut.ac.ir</p></li>
+        <li><p>Phone: +98 911 778 4215</p></li>
       </ul>
   </div>
 </div>
