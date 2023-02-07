@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Extracting the data from WHO"
+title: "Introduction to Neuroscience - Spring 2022"
 ---
 
 <p align="justify"> 
-Extracting the data from World Health Organization (WHO) and converting it into a desirable format for analytical purposes
+Introduction to Neuroscience course presentd by [Dr. Mohammadreza Abolghasemi Dehaqani](https://ece.ut.ac.ir/en/~dehaqani) at the university of Tehran. these are the assignments and projects that I did throughout the course.
 </p>
 
 ## Problem definition
