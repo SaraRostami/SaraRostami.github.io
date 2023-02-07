@@ -2,10 +2,8 @@
 layout: post
 title: "Introduction to Neuroscience - Spring 2022"
 ---
-
-<p align="justify"> 
 Introduction to Neuroscience course presentd by [Dr. Mohammadreza Abolghasemi Dehaqani](https://ece.ut.ac.ir/en/~dehaqani) at the university of Tehran. these are the assignments and projects that I did throughout the course.
-</p>
+
 
 ## Problem definition
 
