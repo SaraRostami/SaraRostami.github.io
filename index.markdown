@@ -30,8 +30,7 @@ Currently I'm in the midst of writing my proposal under the supervision of [Dr. 
     <h2 id="research-interests">Research Interests</h2>
     <ul>
       <li><p>Neuroscience</p></li>
-	  <li><p>Data Science</p></li>
-	  <li><p>Formal Methods</p></li>
+	<li><p>Data Science</p></li>
       <li><p>Machine Learning Algorithms</p></li>	  
       <li><p>Decision-making Under Uncertainty</p></li>
       <li><p>Complexity Theory & Designing Algorithms</p></li>
