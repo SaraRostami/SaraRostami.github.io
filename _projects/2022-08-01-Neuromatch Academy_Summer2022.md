@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "TripadvisorWebScraper"
+title: "Computational Neuroscience (Neuromatch Academy) - Summer 2022"
 ---
 
-This is a simple web scrapper program for scrapping Tripadvisor and collecting data for data analysis purposes.
+I was a student at the Neuromatch Academy for the Computational Neuroscience summer program. during this program we did tutorials and also we did a group project on the HCB dataset.
 
 ## Problem definition
 <p align="justify"><a href="https://www.tripadvisor.com/">Tripadvisor</a> is a well-known website where people can share their experiences and thoughts about various travelling-related topics. My friend <a href="https://scholar.google.com/citations?user=GqH9-rsAAAAJ&hl=en&oi=ao">Sadaf Rabiee Mary</a> needed to access some data from Tripadvisor. So, she asked me to write a program to extract the needed data.</p>
@@ -18,6 +18,6 @@ This is a simple web scrapper program for scrapping Tripadvisor and collecting d
 
 **Programming Languages and Technologies:** Python
 
-**Member(s):** Sara Rostami
+**Member(s):** Sara Rostami, Srijita Karmakar, Sunghyun Park, Muskan Mittal
 
-**[codes and more information ( Available)](https://github.com/SaraRostami/Toy_Projects/tree/main/TripadvisorWebScraper/S)**
+**[codes and more information ( Available)](#)**
