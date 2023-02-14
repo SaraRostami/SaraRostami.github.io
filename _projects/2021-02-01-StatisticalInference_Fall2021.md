@@ -10,4 +10,4 @@ Statistical Inference course presentd by [Dr. Behnam Bahrak](https://ece.ut.ac.i
 
 **Member(s):** Sara Rostami
 
-**[codes and more information ( Available)](#)**
+**[codes and more information (Available)](#)**

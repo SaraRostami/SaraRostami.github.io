@@ -21,4 +21,4 @@ I was a student at the [Neuromatch Academy](https://academy.neuromatch.io/) for 
 
 **Member(s):** Sara Rostami, Srijita Karmakar, Sunghyun Park, Muskan Mittal
 
-**[codes and more information ( Available)](#)**
+**[codes and more information (Available)](#)**

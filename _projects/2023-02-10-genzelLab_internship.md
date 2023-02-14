@@ -11,4 +11,4 @@ I was a research intern at [Genzel Lab, Netherlands](https://www.genzellab.com/)
 
 **Member(s):** Sara Rostami
 
-**[codes and more information ( Available)](https://github.com/genzellab/HM_RAT)**
+**[codes and more information (Available)](https://github.com/genzellab/HM_RAT)**

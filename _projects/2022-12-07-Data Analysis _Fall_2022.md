@@ -11,4 +11,4 @@ Data Analysis course presentd by [Dr. Mohammad Amin Sadeghi](https://ece.ut.ac.i
 
 **Member(s):** Sara Rostami
 
-**[codes and more information ( not Available)](#)**
+**[codes and more information (Available)](#)**
