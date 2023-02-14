@@ -12,27 +12,3 @@ Data Analysis course presentd by [Dr. Mohammad Amin Sadeghi](https://ece.ut.ac.i
 **Member(s):** Sara Rostami
 
 **[codes and more information (Available)](#)**
-
-<span class="w3-tag w3-round w3-center">Data Analysis</span>
-
-
-<div class="w3-panel w3-border w3-light-grey w3-round-large" style="text-align: justify;">
-  <h4><a href="#url-github-reposiroy-assinement">title assignement</a></h4>
-  Description
-</div>
-
-<div class="w3-panel w3-border w3-light-grey w3-round-large" style="text-align: justify;">
-  <h4><a href="#url-github-reposiroy-assinement">title assignement</a></h4>
-  Description
-</div>
-
-<div class="w3-panel w3-border w3-light-grey w3-round-large" style="text-align: justify;">
-  <h4><a href="#url-github-reposiroy-assinement">title assignement</a></h4>
-  Description
-</div>
-
-<div class="w3-panel w3-border w3-light-grey w3-round-large" style="text-align: justify;">
-  <h4><a href="#url-github-reposiroy-assinement">title assignement</a></h4>
-  Description
-</div>
-
