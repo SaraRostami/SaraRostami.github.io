@@ -3,15 +3,16 @@ layout: post
 title: "Computational Neuroscience (Neuromatch Academy) - Summer 2022"
 ---
 
-I was a student at the [Neuromatch Academy](https://academy.neuromatch.io/) for the Computational Neuroscience summer program. during this program we did [tutorials](https://compneuro.neuromatch.io/tutorials/intro.html) and also we did a group project on the HCB dataset.
+I was a student at the [Neuromatch Academy](https://academy.neuromatch.io/) for the Computational Neuroscience summer program. during this program we did [tutorials](https://compneuro.neuromatch.io/tutorials/intro.html) and also a group project on the HCB 2021 fmri dataset.
 
 ## Problem definition
-<p align="justify"><a href="https://www.tripadvisor.com/">Tripadvisor</a> is a well-known website where people can share their experiences and thoughts about various travelling-related topics. My friend <a href="https://scholar.google.com/citations?user=GqH9-rsAAAAJ&hl=en&oi=ao">Sadaf Rabiee Mary</a> needed to access some data from Tripadvisor. So, she asked me to write a program to extract the needed data.</p>
+<p align="justify">we worked on the data from the gambling task of the HCB dataset.<p>Question: How does the neural response to emotion cues correlate with the neural responses to reward and punishment?</p>
+</a> Hypthesis: Brain areas more active during emotion cognition would also show higher activity on receiving reward and/or punishment feedback.</p>
 
 
 ## What we did
 
-<p align="justify">I wrote a program using a python package named BeautifulSoup, which extracts the required data. Unfortunately, Tripadvisor prohibited using their data for research purposes. Therefore, we followed their obligations and didn't continue that research. Nevertheless, I made the code publicly available because it might be beneficial for others searching for a simple way to extract data from websites other than Tripadvisor.</p>
+<p align="justify">We calculated individual-level RDMs and performed RSA analysis to compare the brain activation patterns during win and loss trials. for the group-level analysis, we used the Random Forest classifier.</p>
   
 
 **Application Language(s):** English
