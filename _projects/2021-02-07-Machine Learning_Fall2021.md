@@ -8,6 +8,6 @@ Machine Learning course presentd by [Dr. Mohammadreza Abolghasemi Dehaqani](http
 
 **Programming Languages and Technologies:** Python
 
-**Member(s):** Sara Rostami
+**Member(s):** Sara Rostami, Keyhan Rayati, Soheil Sedghi, Anushe Saadati
 
-**[codes and more information (Available)](#)**
+**[codes and more information (Available)](https://github.com/SaraRostami/University/tree/main/Machine%20Learning%20-%20Fall%202021)**
