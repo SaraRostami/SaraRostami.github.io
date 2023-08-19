@@ -12,9 +12,7 @@ I was a student at the [Neuromatch Academy](https://academy.neuromatch.io/) for 
 
 ## What we did
 <p align="justify">We calculated individual-level RDMs and performed RSA analysis to compare the brain activation patterns during win and loss trials. for the group-level analysis, we used the Random Forest classifier.</p>
-  
-
-**Application Language(s):** English
+ 
 
 **Programming Languages and Technologies:** Python
 
