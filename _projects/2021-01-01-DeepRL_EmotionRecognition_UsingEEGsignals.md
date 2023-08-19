@@ -3,7 +3,10 @@ layout: post
 title: "DeepRL EmotionRecognition Using EEG Signals"
 ---
 
-This is a project that I collaborated on with a friend. We used Deep Reinforcement Learning for recognizing emotions based on EEG signals.
+This is my B.S. project. In this project I  applied Deep Reinforcement Learning to predict emotions using EEG signals from the "DEAP" dataset. 
+
+
+**Application Language(s):** Farsi, English
 
 **Programming Languages and Technologies:** Python, Stable-baselines
 
