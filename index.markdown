@@ -10,16 +10,17 @@ txtAlign: justify
 ---
 
 
-# Biography
+# About Me
 
-I'm a graduate student at [University of Tehran](https://ut.ac.ir/en), majoring in artificial intelligence and robotics.
-I received my B.Sc. in Computer engineering at [Babol Noshirvani University of Technology, Mazandaran](https://www.modares.ac.ir/en/aboutus).
-for my undergraduate project I worked with eeg signals to recognize emotions using Deep Reinforcement Learning.
+I'm a graduate student at [University of Tehran](https://ut.ac.ir/en), majoring in artificial intelligence and robotics. I'm an aspiring neuroscience enthusiast with an insatiable curiosity for understanding the intricacies of the human mind.
+I received my B.Sc. in Computer engineering from [Babol Noshirvani University of Technology, Mazandaran](https://www.modares.ac.ir/en/aboutus).
+For my undergraduate project I worked with EEG signals to recognize emotions using Deep Reinforcement Learning.
 
-I have always been curious about the human mind. why we like things that we like, why some of us are good at something while some of us aren't,
-and how can we change that. and ever since I've become aware of brain's plasticity, I've been more and more curious about what the human mind can do.
+I've always been curious about how our minds work. Why are we good at some things but struggle with others? Can we get better at what we're good at and improve what we're not so good at?
+I'm strongly confident that neuroscience has the capability to offer insights into these questions over time. It begins with understanding how the brain operates for distinct tasks, and gradually, we can develop the skill to cleverly influence the brain's basic functions using well-thought-out interventions, wheteher it be through specalized mind exercises or techniques such as brain stimulation, neurofeedback, etc.
+
 I hope to learn more about the human brain and also help people in some way along the way.
-Currently I'm in the midst of writing my proposal under the supervision of [Dr. Mohammadreza Abolghasemi Dehaqani](https://ece.ut.ac.ir/en/~dehaqani).
+Currently I'm in the midst of doing my thesis project under the supervision of [Dr. Mohammadreza Abolghasemi Dehaqani](https://ece.ut.ac.ir/en/~dehaqani). In my thesis project, our focus is on delving into how frontotemporal circuits handle the representation of complex objects, like faces and houses. My work is based on the paper [Prediction error and repetition suppression have distinct effects on neural representations of visual information](https://elifesciences.org/articles/33123) by Tang et al.. Our intention is to analyze these representations under conditions of expected versus unexpected scenarios and repeated versus unrepeated instances. Through these investigations, we aim to examine the validity of the predictive coding account.
 
 
 
@@ -38,7 +39,7 @@ Currently I'm in the midst of writing my proposal under the supervision of [Dr. 
   <div class="w3-col l6 m6 s12">
     <h2 id="Education">Education</h2>
     <ul>
-      <li><p>MSc in Artificial Intelligence Engineering at University of Tehran, Tehran, GPA 18.29/20, 2022-Present</p></li>
+      <li><p>MSc in Artificial Intelligence Engineering at University of Tehran, Tehran, GPA 19.12/20, 2021-Present</p></li>
       <li><p>BSc in Computer Engineering at Babol Noshirvani University of Technology, Mazandaran, GPA 17.38/20, 2016-2021</p></li>
     </ul>
   </div>
@@ -48,7 +49,7 @@ Currently I'm in the midst of writing my proposal under the supervision of [Dr. 
 Persian, English
 
 # Hobbies and Interests
-Reading, Movies, Cooking, Ballet, Gymnastics, Painting
+Reading, Movies, Cooking, Gymnastics, Ballet, Painting
 
 
 <div class="w3-row">
