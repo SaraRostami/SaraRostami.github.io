@@ -13,7 +13,7 @@ txtAlign: justify
 # About Me
 
 I'm a graduate student at [University of Tehran](https://ut.ac.ir/en), majoring in artificial intelligence and robotics. I'm an aspiring neuroscience enthusiast with an insatiable curiosity for understanding the intricacies of the human mind.
-I received my B.Sc. in Computer engineering from [Babol Noshirvani University of Technology, Mazandaran](https://www.modares.ac.ir/en/aboutus).
+I received my B.Sc. in Computer engineering from [Babol Noshirvani University of Technology, Mazandaran](https://nit.ac.ir/en).
 For my undergraduate project I worked with EEG signals to recognize emotions using Deep Reinforcement Learning.
 
 I've always been curious about how our minds work. Why are we good at some things but struggle with others? Can we get better at what we're good at and improve what we're not so good at?
@@ -31,8 +31,9 @@ Currently I'm in the midst of doing my thesis project under the supervision of [
     <h2 id="research-interests">Research Interests</h2>
     <ul>
       <li><p>Neuroscience</p></li>
-	    <li><p>Data Science</p></li>
-      <li><p>Machine Learning Algorithms</p></li>	  
+	<li><p>Vision Science</p></li>
+   <li><p>Data Science</p></li>
+      <li><p>Deep Learning</p></li>	  
       <li><p>Decision-making Under Uncertainty</p></li>
     </ul>       
   </div>
