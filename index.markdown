@@ -24,7 +24,7 @@ Currently I'm in the midst of doing my thesis project under the supervision of [
 
 
 
-<a href="https://github.com/SaraRostami/SaraRostami.github.io/raw/main/files/CV_SaraRostami.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> <!--<a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My Resume</a>-->
+<a href="https://github.com/SaraRostami/SaraRostami.github.io/blob/502cfdd9bfa1383b3442695cbd620e1a41fc2252/CV_SaraRostami.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> <!--<a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My Resume</a>-->
 
 <div class="w3-row">
   <div class="w3-col l6 m6 s12">
