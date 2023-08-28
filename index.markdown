@@ -34,7 +34,7 @@ Currently I'm in the midst of doing my thesis project under the supervision of [
 	<li><p>Vision Science</p></li>
    <li><p>Data Science</p></li>
       <li><p>Deep Learning</p></li>	  
-      <li><p>Decision-making Under Uncertainty</p></li>
+      <li><p>Memory and Sleep</p></li>
     </ul>       
   </div>
   <div class="w3-col l6 m6 s12">

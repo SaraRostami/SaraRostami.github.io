@@ -9,4 +9,4 @@ Neural Networks & Deep Learning course presentd by [Dr. Ahmad Kalhor](https://ec
 
 **Member(s):** Sara Rostami, Amin Shahcheraghi
 
-**[codes and more information (Available)](#)**
+**[codes and more information (Available)](https://github.com/SaraRostami/University/tree/63b8ca39f91fefc349b1b93c570c8de36243c48c/Neural%20Networks%20-%20Fall%202022/Assignments)**
