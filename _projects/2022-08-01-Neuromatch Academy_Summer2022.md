@@ -17,4 +17,4 @@ We calculated individual-level RDMs and performed RSA analysis to compare the br
 
 **Member(s):** Sara Rostami, Srijita Karmakar, Sunghyun Park, Muskan Mittal
 
-**[codes and more information (Available)](#)**
+**[codes and more information (Available)](https://github.com/SaraRostami/IndependentCodingVentures/tree/6fdf4723e6b349dc1c7e006a097f86fe9db2943b/NeuromatchAcademy_Summer2022)**
