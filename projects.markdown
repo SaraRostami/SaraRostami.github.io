@@ -8,5 +8,5 @@ permalink: /projects/
 
 # Projects
 
-These are some of my selected projects and homeworks that I've done for my university courses.
+These are some of my selected projects and homeworks that I've done for my university courses, and also, some independent projects that I've done throughout my career.
 
