@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "DeepRL EmotionRecognition Using EEG Signals"
+title: "Emotion Recognition from EEG Signals using Deep Reinforcement Learning"
 ---
 
-This is my B.S. project. In this project I  applied Deep Reinforcement Learning to predict emotions using EEG signals from the "DEAP" dataset. 
+This is my B.S. project. In this project I  applied Deep Reinforcement Learning to predict emotions using EEG signals from the [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/) dataset. 
 
 
 **Application Language(s):** Farsi, English
