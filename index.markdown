@@ -20,7 +20,7 @@ I've always been curious about how our minds work. Why are we good at some thing
 I'm strongly confident that neuroscience has the capability to offer insights into these questions over time. It begins with understanding how the brain operates for distinct tasks, and gradually, we can develop the skill to cleverly influence the brain's basic functions using well-thought-out interventions, wheteher it be through specalized mind exercises or techniques such as brain stimulation, neurofeedback, etc.
 
 I hope to learn more about the brain and also help people in some way along the way.
-Currently I'm in the midst of doing my thesis project under the supervision of [Dr. Mohammadreza Abolghasemi Dehaqani](https://ece.ut.ac.ir/en/~dehaqani). In my thesis project, our focus is on delving into how frontotemporal circuits handle the representation of complex objects, like faces and houses. My work is based on the paper [Prediction error and repetition suppression have distinct effects on neural representations of visual information](https://elifesciences.org/articles/33123) by Tang et al.. Our intention is to analyze these representations under conditions of expected versus unexpected scenarios and repeated versus unrepeated instances. Through these investigations, we aim to examine the validity of the predictive coding account.
+Currently I'm in the midst of doing my thesis project under the supervision of [Dr. Mohammadreza Abolghasemi Dehaqani](https://ece.ut.ac.ir/en/~dehaqani). In my thesis project, our focus is on delving into how frontotemporal circuits handle the representation of complex objects, like faces and houses. My work is based on the paper [Prediction error and repetition suppression have distinct effects on neural representations of visual information](https://elifesciences.org/articles/33123) by Tang et al.. Our intention is to analyze these representations under conditions of expected versus unexpected scenarios. Through these investigations, we aim to examine the validity of the predictive coding account.
 
 
 
@@ -32,7 +32,7 @@ Currently I'm in the midst of doing my thesis project under the supervision of [
     <ul>
       <li><p>Neuroscience</p></li>
 	<li><p>Vision Science</p></li>
-   <li><p>Data Science</p></li>
+   <li><p>Decision Making</p></li>
       <li><p>Deep Learning</p></li>	  
       <li><p>Memory and Sleep</p></li>
     </ul>       
