@@ -30,8 +30,9 @@ Currently I'm in the midst of doing my thesis project under the supervision of [
   <div class="w3-col l6 m6 s12">
     <h2 id="research-interests">Research Interests</h2>
     <ul>
-      <li><p>Neuroscience</p></li>
+      <li><p>Computational Neuroscience</p></li>
 	<li><p>Vision Science</p></li>
+  <li><p>Motor System</p></li>
    <li><p>Decision Making</p></li>
       <li><p>Deep Learning</p></li>	  
       <li><p>Memory and Sleep</p></li>
