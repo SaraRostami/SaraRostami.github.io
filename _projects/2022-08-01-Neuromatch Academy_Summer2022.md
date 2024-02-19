@@ -7,6 +7,7 @@ I was a student at the [Neuromatch Academy](https://academy.neuromatch.io/) for 
 
 ## Problem definition
 We worked on the data from the gambling task of the HCB dataset.
+
 **Question:** How does the neural response to emotion cues correlate with the neural responses to reward and punishment?
 **Hypothesis:** Brain areas more active during emotion cognition would also show higher activity on receiving reward and/or punishment feedback.
 
