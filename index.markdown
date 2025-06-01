@@ -21,10 +21,10 @@ I'm strongly confident that neuroscience has the capability to offer insights in
 
 I hope to learn more about the brain and also help people in some way along the way. I recently defended my master's thesis under the supervision of [Dr. Mohammadreza Abolghasemi Dehaqani](https://ece.ut.ac.ir/en/~dehaqani). In my thesis, we attempted to investigate the brain's automatic change detection ability using a well-known neural signature called Visual Mismatch Negativity (vMMN).
 
-Specifically, we investigated this Event-Related Potential (ERP) component based on the predictive coding hypothesis. We aimed to dissociate the repetition-related and expectation-related effects contributing to vMMN by designing a Rapid Serial Visual Presentation (RSVP) task paradigm and recording EEG signals from subjects.
+Specifically, we investigated this Event-Related Potential (ERP) component based on the predictive coding hypothesis. We aimed to dissociate the repetition-related and expectation-related effects contributing to vMMN by designing a Rapid Serial Visual Presentation (RSVP) task paradigm and recording EEG signals from subjects. Our task was based on the study by [Summerfield et al. (2008)](https://www.nature.com/articles/nn.2163), with minor differences. The most significant modification was the use of complex visual stimuli. By adopting this approach, we were able to address a gap in previous work by separately investigating repetition and expectation, and also gain new insights about the brain's processing of complex visual stimuli, rather than simple ones.
 
-Our task was based on the study by [Summerfield et al. (2008)](https://www.nature.com/articles/nn.2163), with minor differences. The most significant modification was the use of complex visual stimuli. By adopting this approach, we were able to address a gap in previous work by separately investigating repetition and expectation, and also gain new insights about the brain's processing of complex visual stimuli, rather than simple ones.
 
+Most recently, I’ve been gravitating toward neuro-inspired computational models, particularly frameworks that draw from biological principles such as predictive coding, attractor dynamics, and neuromodulation. I’m interested in how these ideas can contribute not only to more interpretable and adaptable AI architectures but also to addressing some of the pressing challenges in current AI systems—such as robustness, continual learning, and generalization. By grounding machine learning models in the computational principles of the brain, I hope to contribute to the development of next-generation AI systems that are both cognitively informed and practically impactful.
 
 
 <!-- <a href="https://github.com/SaraRostami/SaraRostami.github.io/blob/main/files/SaraRostamidarounkola_CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a>  -->
@@ -38,10 +38,11 @@ Our task was based on the study by [Summerfield et al. (2008)](https://www.natur
     <h2 id="research-interests">Research Interests</h2>
     <ul>
       <li><p>Computational Neuroscience</p></li>
-	<li><p>Vision Science</p></li>
-   <li><p>Decision Making</p></li>
-      <li><p>Deep Learning</p></li>	  
-      <li><p>Memory and Sleep</p></li>
+	   <li><p>NeuroAI</p></li>
+     <li><p>Vision Science</p></li>
+      <li><p>Decision Making</p></li>
+      <li><p>Interpretable AI</p></li>	  
+      
     </ul>       
   </div>
   <div class="w3-col l6 m6 s12">
