@@ -17,7 +17,7 @@ I received my B.Sc. in Computer engineering from [Babol Noshirvani University of
 For my undergraduate project I worked with EEG signals to recognize emotions using Deep Reinforcement Learning.
 
 I've always been curious about how our minds work. Why are we good at some things but struggle with others? Can we get better at what we're good at and improve what we're not so good at?
-I'm strongly confident that neuroscience has the capability to offer insights into these questions over time. It begins with understanding how the brain operates for distinct tasks, and gradually, we can develop the skill to cleverly influence the brain's basic functions using well-thought-out interventions, wheteher it be through specalized mind exercises or techniques such as brain stimulation, neurofeedback, etc.
+I'm strongly confident that neuroscience has the capability to offer insights into these questions over time. By studying how the brain supports specific cognitive functions, researchers are beginning to identify patterns of neural activity associated with different mental tasks. Over time, this knowledge may enable us to refine brain function through targeted interventions—ranging from cognitive training programs to techniques like non-invasive brain stimulation and neurofeedback—grounded in empirical evidence and neurobiological mechanisms.
 
 I hope to learn more about the brain and also help people in some way along the way. I recently defended my master's thesis under the supervision of [Dr. Mohammadreza Abolghasemi Dehaqani](https://ece.ut.ac.ir/en/~dehaqani). In my thesis, we attempted to investigate the brain's automatic change detection ability using a well-known neural signature called Visual Mismatch Negativity (vMMN).
 
