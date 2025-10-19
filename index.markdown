@@ -9,7 +9,7 @@ txtAlign: justify
 
 # About Me
 
-I just graduated from the [University of Tehran](https://ut.ac.ir/en) with a degree in Artificial Intelligence and Robotics. I’m an aspiring neuroscience enthusiast with an insatiable curiosity for understanding the intricacies of the human mind.  
+I graduated from the [University of Tehran](https://ut.ac.ir/en) with a degree in Artificial Intelligence and Robotics. I’m an aspiring neuroscience enthusiast with an insatiable curiosity for understanding the intricacies of the human mind.  
 I received my B.Sc. in Computer Engineering from [Babol Noshirvani University of Technology, Mazandaran](https://nit.ac.ir/en). For my undergraduate project, I worked with EEG signals to recognize emotions using Deep Reinforcement Learning.
 
 I’ve always been curious about how our minds work. Why are we good at some things but struggle with others? Can we get better at what we’re good at and improve what we’re not so good at?  
@@ -26,7 +26,7 @@ By grounding machine learning models in the computational principles of the brai
 
 <!-- <a href="https://github.com/SaraRostami/SaraRostami.github.io/blob/main/files/SaraRostamidarounkola_CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a>  -->
 
-<a onclick="window.open('/files/SaraRostamidarounkola_CV.pdf')" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a>
+<a onclick="window.open('/files/Resume_Work.pdf')" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a>
 
 <div class="w3-row">
   <div class="w3-col l6 m6 s12">
@@ -67,8 +67,8 @@ Reading, Movies, Cooking, Gymnastics, Ballet, Painting
     <h2 id="Contact Me">Contact Me</h2>
       <ul>
         <li><p>Email: sararostami.d98@gmail.com</p></li>
-        <li><p>Email: sara.rostami@ut.ac.ir</p></li>
-        <li><p>Phone: +98 911 778 4215</p></li>
+        <li><p>Email: srostam7@uwo.ca</p></li>
+        <li><p>Phone: +1 (416) 834-7801</p></li>
       </ul>
   </div>
 </div>
