@@ -24,7 +24,7 @@ I’m particularly passionate about developing **neuro-inspired computational mo
 
 <!-- <a href="https://github.com/SaraRostami/SaraRostami.github.io/blob/main/files/SaraRostamidarounkola_CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a>  -->
 
-<a onclick="window.open('/files/Resume_Work.pdf')" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a>
+<a onclick="window.open('/files/SaraRostami_Resume.pdf')" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a>
 
 <div class="w3-row">
   <div class="w3-col l6 m6 s12">
@@ -33,7 +33,6 @@ I’m particularly passionate about developing **neuro-inspired computational mo
       <li><p>Computational Neuroscience</p></li>
       <li><p>NeuroAI</p></li>
       <li><p>Vision Science</p></li>
-      <li><p>Decision Making</p></li>
       <li><p>Interpretable AI</p></li>
     </ul>
   </div>
