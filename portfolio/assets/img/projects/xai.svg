@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17143c"/><stop offset="1" stop-color="#0f3b42"/></linearGradient>
+<radialGradient id="glow" cx="0.78" cy="0.18" r="0.7"><stop offset="0" stop-color="#3fd3bf" stop-opacity="0.22"/><stop offset="1" stop-color="#3fd3bf" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.07"/></pattern>
+</defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<rect width="800" height="500" fill="url(#glow)"/>
+<rect width="800" height="500" fill="url(#dots)"/>
+<rect x="60" y="80" width="324" height="324" rx="12" fill="#1a2f4a"/>
+<ellipse cx="232.8" cy="247.4" rx="92" ry="70" fill="#e9ebf7" fill-opacity="0.18"/>
+<circle cx="281.4" cy="193.4" r="34" fill="#e9ebf7" fill-opacity="0.18"/>
+<rect x="170" y="82" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.21"/>
+<rect x="224" y="82" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.24"/>
+<rect x="116" y="136" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.27"/>
+<rect x="170" y="136" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.45"/>
+<rect x="224" y="136" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.51"/>
+<rect x="278" y="136" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.27"/>
+<rect x="62" y="190" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.18"/>
+<rect x="116" y="190" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.39"/>
+<rect x="170" y="190" width="50" height="50" rx="5" fill="#ff8f80" fill-opacity="0.72"/>
+<rect x="224" y="190" width="50" height="50" rx="5" fill="#ff8f80" fill-opacity="0.69"/>
+<rect x="278" y="190" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.39"/>
+<rect x="116" y="244" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.36"/>
+<rect x="170" y="244" width="50" height="50" rx="5" fill="#ff8f80" fill-opacity="0.66"/>
+<rect x="224" y="244" width="50" height="50" rx="5" fill="#ff8f80" fill-opacity="0.75"/>
+<rect x="278" y="244" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.48"/>
+<rect x="332" y="244" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.21"/>
+<rect x="116" y="298" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.21"/>
+<rect x="170" y="298" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.39"/>
+<rect x="224" y="298" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.45"/>
+<rect x="278" y="298" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.30"/>
+<rect x="170" y="352" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.18"/>
+<rect x="224" y="352" width="50" height="50" rx="5" fill="#ffc164" fill-opacity="0.21"/>
+<line x1="114" y1="80" x2="114" y2="404" stroke="#0a1626" stroke-opacity="0.6" stroke-width="2"/>
+<line x1="60" y1="134" x2="384" y2="134" stroke="#0a1626" stroke-opacity="0.6" stroke-width="2"/>
+<line x1="168" y1="80" x2="168" y2="404" stroke="#0a1626" stroke-opacity="0.6" stroke-width="2"/>
+<line x1="60" y1="188" x2="384" y2="188" stroke="#0a1626" stroke-opacity="0.6" stroke-width="2"/>
+<line x1="222" y1="80" x2="222" y2="404" stroke="#0a1626" stroke-opacity="0.6" stroke-width="2"/>
+<line x1="60" y1="242" x2="384" y2="242" stroke="#0a1626" stroke-opacity="0.6" stroke-width="2"/>
+<line x1="276" y1="80" x2="276" y2="404" stroke="#0a1626" stroke-opacity="0.6" stroke-width="2"/>
+<line x1="60" y1="296" x2="384" y2="296" stroke="#0a1626" stroke-opacity="0.6" stroke-width="2"/>
+<line x1="330" y1="80" x2="330" y2="404" stroke="#0a1626" stroke-opacity="0.6" stroke-width="2"/>
+<line x1="60" y1="350" x2="384" y2="350" stroke="#0a1626" stroke-opacity="0.6" stroke-width="2"/>
+<text x="60" y="438" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8d93b8" text-anchor="start" font-weight="500" letter-spacing="1.2">LIME  ·  superpixel saliency</text>
+<line x1="560" y1="86" x2="560" y2="386" stroke="#8d93b8" stroke-opacity="0.6"/>
+<rect x="560" y="110" width="150" height="22" rx="4" fill="#3fd3bf" fill-opacity="0.85"/>
+<text x="548" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e9ebf7" text-anchor="end" font-weight="500" letter-spacing="0.3">schooling</text>
+<rect x="455" y="156" width="105" height="22" rx="4" fill="#ff8f80" fill-opacity="0.85"/>
+<rect x="560" y="202" width="82" height="22" rx="4" fill="#3fd3bf" fill-opacity="0.85"/>
+<rect x="496" y="248" width="64" height="22" rx="4" fill="#ff8f80" fill-opacity="0.85"/>
+<rect x="560" y="294" width="38" height="22" rx="4" fill="#3fd3bf" fill-opacity="0.85"/>
+<rect x="538" y="340" width="22" height="22" rx="4" fill="#ff8f80" fill-opacity="0.85"/>
+<text x="560" y="416" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8d93b8" text-anchor="middle" font-weight="500" letter-spacing="1.2">SHAP  ·  feature attribution</text>
+</svg>

@@ -1,0 +1,438 @@
+<!doctype html>
+<html lang="en" data-lens="all">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sara Rostami · Neuroscience × Machine Learning</title>
+  <meta name="description" content="Sara Rostami: MSc Neuroscience (ML specialization) at Western University and Vector Institute. EEG–fNIRS research on visual processing, and trustworthy applied AI: calibration, uncertainty, explainability and LLM systems.">
+  <meta name="author" content="Sara Rostami">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Sara Rostami · Neuroscience × Machine Learning">
+  <meta property="og:description" content="Studying how the brain sees, and building AI that is interpretable, calibrated and trustworthy.">
+  <meta property="og:image" content="https://sararostami.github.io/portfolio/assets/img/og-image.png">
+  <meta property="og:url" content="https://sararostami.github.io/portfolio/">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script>
+    // Apply the saved theme and the shared-link lens before first paint.
+    (function () {
+      var d = document.documentElement;
+      d.classList.add("js");
+      try {
+        var t = localStorage.getItem("theme");
+        if (t === "light" || t === "dark") d.setAttribute("data-theme", t);
+      } catch (e) {}
+      var l = new URLSearchParams(location.search).get("lens");
+      if (l === "academia" || l === "industry") d.setAttribute("data-lens", l);
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <!-- Inline icon sprite -->
+  <svg width="0" height="0" class="sprite" aria-hidden="true">
+    <symbol id="i-mail" viewBox="0 0 24 24"><path d="M4 6h16v12H4z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m4 7 8 6 8-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></symbol>
+    <symbol id="i-github" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.9 1.52 2.34 1.08 2.91.83.09-.65.35-1.08.63-1.33-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02a9.56 9.56 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10 10 0 0 0 12 2Z"/></symbol>
+    <symbol id="i-linkedin" viewBox="0 0 24 24"><path fill="currentColor" d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5ZM3 9.75h4v11.25H3V9.75Zm6.5 0h3.83v1.54h.06c.53-1 1.84-2.06 3.78-2.06 4.05 0 4.8 2.66 4.8 6.13V21h-4v-4.98c0-1.19-.02-2.72-1.66-2.72-1.66 0-1.91 1.3-1.91 2.63V21h-4V9.75Z"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 4v11m0 0-4.5-4.5M12 15l4.5-4.5M5 19h14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m0 0-5-5m5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24"><path d="M14 5h5v5m0-5-8 8M18 14v5H5V6h5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 2.5v2.5M12 19v2.5M2.5 12H5M19 12h2.5M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></symbol>
+    <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-brain" viewBox="0 0 24 24"><path d="M9 4a3 3 0 0 0-3 3 3 3 0 0 0-2 5 3 3 0 0 0 2 5 3 3 0 0 0 6 1V5a2 2 0 0 0-3-1Zm6 0a3 3 0 0 1 3 3 3 3 0 0 1 2 5 3 3 0 0 1-2 5 3 3 0 0 1-6 1" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></symbol>
+    <symbol id="i-chip" viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12" rx="2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect x="9.5" y="9.5" width="5" height="5" rx="1" fill="currentColor" opacity=".35"/><path d="M9 3v3m6-3v3M9 18v3m6-3v3M3 9h3m-3 6h3m12-6h3m-3 6h3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+    <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 3c.6 4.6 2.4 6.4 7 7-4.6.6-6.4 2.4-7 7-.6-4.6-2.4-6.4-7-7 4.6-.6 6.4-2.4 7-7Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></symbol>
+  </svg>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#top" aria-label="Sara Rostami, back to top">
+        <span class="brand-mark" aria-hidden="true">SR</span>
+        <span class="brand-name">Sara Rostami</span>
+      </a>
+      <nav class="nav" id="site-nav" aria-label="Sections">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#applied-ai">Applied AI</a>
+        <a href="#projects">Projects</a>
+        <a href="#experience">Experience</a>
+        <a href="#publications">Publications</a>
+        <a href="#contact">Contact</a>
+        <button type="button" class="nav-theme theme-toggle-alt"><svg class="i"><use href="#i-moon"/></svg> Switch light / dark</button>
+      </nav>
+      <div class="header-tools">
+        <div class="lens" role="group" aria-label="Tailor this page for">
+          <button type="button" class="lens-btn" data-lens="all" aria-pressed="true">All</button>
+          <button type="button" class="lens-btn" data-lens="academia" aria-pressed="false">Academia</button>
+          <button type="button" class="lens-btn" data-lens="industry" aria-pressed="false">Industry</button>
+        </div>
+        <button type="button" class="icon-btn theme-toggle" aria-label="Switch colour theme">
+          <svg class="i i-sun"><use href="#i-sun"/></svg><svg class="i i-moon"><use href="#i-moon"/></svg>
+        </button>
+        <button type="button" class="icon-btn menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">
+          <svg class="i"><use href="#i-menu"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- ============================== HERO ============================== -->
+    <section class="hero" id="top">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <div class="hero-id">
+            <img class="avatar" src="assets/img/avatar.jpg" alt="Portrait of Sara Rostami" width="88" height="88">
+            <p class="eyebrow">Neuroscience <span aria-hidden="true">×</span><span class="sr-only">and</span> Machine Learning</p>
+          </div>
+          <h1>Sara Rostami</h1>
+          <p class="lead">I study how the human brain makes sense of what we see, and I build AI systems that are <em>interpretable</em>, <em>calibrated</em> and worth trusting.</p>
+          <p class="hero-meta">MSc Neuroscience (ML specialization) · <a href="https://www.uwo.ca/">Western University</a> · <a href="https://vectorinstitute.ai/">Vector Institute</a> · London, ON</p>
+          <div class="hero-ctas">
+            <button type="button" class="btn btn-academia" data-set-lens="academia" data-scroll="#about">
+              <svg class="i"><use href="#i-brain"/></svg> I'm in academia
+            </button>
+            <button type="button" class="btn btn-industry" data-set-lens="industry" data-scroll="#about">
+              <svg class="i"><use href="#i-chip"/></svg> I'm in industry
+            </button>
+          </div>
+          <ul class="hero-highlights" aria-label="Highlights">
+            <li>Vector Institute Research Grant</li>
+            <li>Hack Western 12</li>
+            <li>3× Neuromatch Academy TA</li>
+            <li>GPA 3.97 / 4.0</li>
+          </ul>
+        </div>
+
+        <figure class="hero-art">
+          <svg class="fork" viewBox="0 0 480 520" role="group" aria-label="Career graph: a computer-engineering trunk that branches into academia and industry">
+            <defs>
+              <path id="route-a" d="M240,510 L240,318 C240,250 110,262 110,196"/>
+              <path id="route-b" d="M240,510 L240,318 C240,250 370,262 370,196"/>
+              <radialGradient id="halo-a" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="var(--academia)" stop-opacity=".22"/><stop offset="1" stop-color="var(--academia)" stop-opacity="0"/></radialGradient>
+              <radialGradient id="halo-b" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="var(--industry)" stop-opacity=".22"/><stop offset="1" stop-color="var(--industry)" stop-opacity="0"/></radialGradient>
+            </defs>
+
+            <!-- trunk -->
+            <path class="fork-trunk" d="M240,510 L240,318"/>
+            <g class="fork-commit">
+              <circle cx="240" cy="472" r="7"/>
+              <text x="258" y="468" class="fork-year">2016</text>
+              <text x="258" y="484" class="fork-note">BSc Computer Engineering</text>
+            </g>
+            <g class="fork-commit">
+              <circle cx="240" cy="396" r="7"/>
+              <text x="258" y="392" class="fork-year">2021</text>
+              <text x="258" y="408" class="fork-note">MSc AI &amp; Robotics</text>
+            </g>
+            <g class="fork-commit fork-split">
+              <circle cx="240" cy="318" r="9"/>
+              <text x="258" y="336" class="fork-year">2025</text>
+              <text x="258" y="352" class="fork-note">Western × Vector</text>
+            </g>
+
+            <!-- academia branch -->
+            <g class="fork-branch" data-branch="academia" tabindex="0" role="button" aria-label="Show the academic view">
+              <path class="fork-path" d="M240,318 C240,250 110,262 110,196"/>
+              <circle cx="110" cy="128" r="96" fill="url(#halo-a)"/>
+              <g class="neurons">
+                <path d="M110,128 Q90,104 70,96 M110,128 Q132,100 152,86 M110,128 Q86,146 66,160 M110,128 Q136,150 156,158 M110,128 Q112,96 108,64 M70,96 Q60,80 64,62 M152,86 Q168,76 170,58 M66,160 Q50,166 40,182 M156,158 Q172,168 178,186"/>
+                <circle cx="110" cy="128" r="11"/>
+                <circle cx="70" cy="96" r="7"/><circle cx="152" cy="86" r="7"/>
+                <circle cx="66" cy="160" r="6"/><circle cx="156" cy="158" r="6"/>
+                <circle cx="108" cy="64" r="6"/>
+                <circle cx="64" cy="62" r="3.5"/><circle cx="170" cy="58" r="3.5"/><circle cx="40" cy="182" r="3.5"/><circle cx="178" cy="186" r="3.5"/>
+              </g>
+              <text x="110" y="30" class="fork-label" text-anchor="middle">Academia</text>
+              <text x="110" y="47" class="fork-sub" text-anchor="middle">Neuroscience · NeuroAI</text>
+            </g>
+
+            <!-- industry branch -->
+            <g class="fork-branch" data-branch="industry" tabindex="0" role="button" aria-label="Show the industry view">
+              <path class="fork-path" d="M240,318 C240,250 370,262 370,196"/>
+              <circle cx="370" cy="128" r="96" fill="url(#halo-b)"/>
+              <g class="ann">
+                <path d="M322,92 L370,74 M322,92 L370,108 M322,92 L370,142 M322,92 L370,176 M322,128 L370,74 M322,128 L370,108 M322,128 L370,142 M322,128 L370,176 M322,164 L370,74 M322,164 L370,108 M322,164 L370,142 M322,164 L370,176 M370,74 L418,108 M370,108 L418,108 M370,142 L418,108 M370,176 L418,108 M370,74 L418,148 M370,108 L418,148 M370,142 L418,148 M370,176 L418,148"/>
+                <circle cx="322" cy="92" r="7"/><circle cx="322" cy="128" r="7"/><circle cx="322" cy="164" r="7"/>
+                <circle cx="370" cy="74" r="7"/><circle cx="370" cy="108" r="7"/><circle cx="370" cy="142" r="7"/><circle cx="370" cy="176" r="7"/>
+                <circle cx="418" cy="108" r="8"/><circle cx="418" cy="148" r="8"/>
+              </g>
+              <text x="370" y="30" class="fork-label" text-anchor="middle">Industry</text>
+              <text x="370" y="47" class="fork-sub" text-anchor="middle">LLMs · Agents · Trustworthy AI</text>
+            </g>
+
+            <!-- signal pulses -->
+            <g class="pulses" aria-hidden="true">
+              <circle r="4" class="pulse pulse-a"><animateMotion dur="4.8s" repeatCount="indefinite" rotate="auto"><mpath href="#route-a"/></animateMotion></circle>
+              <circle r="4" class="pulse pulse-b"><animateMotion dur="4.8s" begin="-2.4s" repeatCount="indefinite" rotate="auto"><mpath href="#route-b"/></animateMotion></circle>
+            </g>
+          </svg>
+          <figcaption>One foundation in computer engineering, two branches. Pick one to tailor the page, or keep both.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <div class="flow" id="flow">
+      <!-- ============================== ABOUT / TWO PATHS ============================== -->
+      <section class="section" id="about" data-section="about">
+        <div class="container">
+          <header class="section-head">
+            <p class="eyebrow">About</p>
+            <h2>Two paths, one question</h2>
+            <p class="section-intro">How does intelligence compute? I come at it from both sides: studying it in the brain, and building it in machines.</p>
+          </header>
+
+          <div class="paths">
+            <article class="path path-academia" data-track="academia">
+              <div class="path-top">
+                <span class="path-icon"><svg class="i"><use href="#i-brain"/></svg></span>
+                <p class="path-kicker">For academia</p>
+              </div>
+              <h3>Neuroscience &amp; NeuroAI research</h3>
+              <p>I'm a Master's student in Neuroscience (Machine Learning specialization) at <a href="https://www.uwo.ca/">Western University</a> in the <a href="https://mohsenzadehlab.ca/">Mohsenzadeh Lab</a>, a Vector Institute–affiliated lab, supervised by <a href="https://www.eng.uwo.ca/electrical/faculty/mohsenzadeh_y.html">Dr. Yalda Mohsenzadeh</a> and <a href="https://www.edu.uwo.ca/faculty-profiles/duerden_emma.html">Dr. Emma Duerden</a>. I study visual processing with <strong>simultaneous EEG–fNIRS</strong>, combining the timing of electrical activity with the slower hemodynamic response to see how the brain represents and remembers what we see.</p>
+              <p>Before Western, I completed an MSc in AI &amp; Robotics at the <a href="https://ut.ac.ir/en">University of Tehran</a> with <a href="https://ece.ut.ac.ir/en/~dehaqani">Dr. Mohammadreza Abolghasemi Dehaqani</a>. My thesis used an RSVP paradigm and 128-channel EEG to separate <strong>repetition</strong> and <strong>expectation</strong> effects in the visual mismatch negativity, within the predictive-coding framework.</p>
+              <ul class="chips" aria-label="Research interests">
+                <li>Computational neuroscience</li><li>NeuroAI</li><li>Vision science</li><li>Interpretable AI</li>
+              </ul>
+              <div class="path-ctas">
+                <a class="btn btn-academia" href="files/SaraRostami_CV_Academic.pdf" target="_blank" rel="noopener"><svg class="i"><use href="#i-download"/></svg> Academic CV</a>
+                <a class="btn btn-ghost" href="#research">Research program <svg class="i"><use href="#i-arrow"/></svg></a>
+              </div>
+            </article>
+
+            <article class="path path-industry" data-track="industry">
+              <div class="path-top">
+                <span class="path-icon"><svg class="i"><use href="#i-chip"/></svg></span>
+                <p class="path-kicker">For industry</p>
+              </div>
+              <h3>Applied &amp; trustworthy AI</h3>
+              <p>I'm an ML researcher with a computer-engineering foundation and <strong>4+ years</strong> of building end-to-end pipelines on high-dimensional, noisy real-world data. My focus is making model outputs <strong>trustworthy</strong>, through interpretability, uncertainty quantification and calibration, across deep networks in PyTorch and LLM-based systems.</p>
+              <p>Recently I've been building with foundation models: measuring and fixing overconfidence in vision-language models, and shipping a multimodal, guideline-grounded LLM triage pipeline at Hack Western 12. I'm looking for <strong>Applied AI Research Scientist</strong> and <strong>Data Scientist</strong> roles in Toronto / GTA.</p>
+              <ul class="chips" aria-label="Core skills">
+                <li>LLMs &amp; agents</li><li>RAG</li><li>Calibration &amp; uncertainty</li><li>Explainable AI</li><li>PyTorch</li><li>Python · SQL</li>
+              </ul>
+              <div class="path-ctas">
+                <a class="btn btn-industry" href="files/SaraRostami_Resume.pdf" target="_blank" rel="noopener"><svg class="i"><use href="#i-download"/></svg> Résumé</a>
+                <a class="btn btn-ghost" href="#applied-ai">Applied AI <svg class="i"><use href="#i-arrow"/></svg></a>
+              </div>
+            </article>
+          </div>
+
+          <aside class="bridge">
+            <svg class="bridge-art" viewBox="0 0 220 64" aria-hidden="true">
+              <path d="M18,32 C40,6 64,58 92,32" class="bridge-a"/>
+              <path d="M128,32 L150,16 L172,32 L150,48 Z M172,32 L200,32 M150,16 L150,48" class="bridge-b"/>
+              <circle cx="18" cy="32" r="6" class="dot-a"/><circle cx="92" cy="32" r="6" class="dot-a"/>
+              <path d="M98,32 H122" class="bridge-link"/>
+              <circle cx="128" cy="32" r="6" class="dot-b"/><circle cx="200" cy="32" r="6" class="dot-b"/>
+            </svg>
+            <p><strong>Where the paths meet.</strong> The brain's computational principles (predictive coding, attractor dynamics, neuromodulation) suggest ways to build AI that is more interpretable, robust and adaptable. Building and stress-testing AI, in turn, gives me sharper tools for studying the brain.</p>
+          </aside>
+        </div>
+      </section>
+
+      <!-- ============================== RESEARCH PROGRAM ============================== -->
+      <section class="section section-tint-a" id="research" data-section="research">
+        <div class="container">
+          <header class="section-head">
+            <p class="eyebrow eyebrow-academia">Academia</p>
+            <h2>Research program</h2>
+            <p class="section-intro">Why are we exceptionally good at some tasks yet struggle with others? Can understanding neural mechanisms help us design better artificial systems?</p>
+          </header>
+
+          <div class="themes">
+            <article class="theme">
+              <svg class="theme-art" viewBox="0 0 120 72" aria-hidden="true">
+                <circle cx="36" cy="36" r="26" class="ln"/>
+                <circle cx="24" cy="26" r="3.5" class="fa"/><circle cx="36" cy="20" r="3.5" class="fa"/><circle cx="48" cy="26" r="3.5" class="fa"/>
+                <circle cx="28" cy="40" r="3.5" class="fa"/><circle cx="44" cy="40" r="3.5" class="fa"/>
+                <rect x="31" y="49" width="6" height="6" rx="1.5" class="fb"/><rect x="21" y="50" width="6" height="6" rx="1.5" class="fb"/><rect x="41" y="50" width="6" height="6" rx="1.5" class="fb"/>
+                <path d="M72,26 l4,-6 4,10 4,-14 4,12 4,-4 4,6 4,-3 4,3" class="ln-a"/>
+                <path d="M72,56 C82,56 86,38 96,38 S110,56 114,56" class="ln-b"/>
+              </svg>
+              <h3>Multimodal visual processing</h3>
+              <p>Simultaneous EEG and fNIRS to capture both the timing and the hemodynamics of visual category perception and image memorability.</p>
+              <p class="theme-where">Mohsenzadeh Lab · Western &amp; Vector · 2025–</p>
+            </article>
+            <article class="theme">
+              <svg class="theme-art" viewBox="0 0 120 72" aria-hidden="true">
+                <rect x="8" y="18" width="24" height="18" rx="3" class="ln"/><rect x="18" y="28" width="24" height="18" rx="3" class="ln"/><rect x="28" y="38" width="24" height="18" rx="3" class="fa-box"/>
+                <path d="M64,40 H116" class="ln"/>
+                <path d="M64,40 C72,40 74,28 80,28 S86,52 92,52 S100,36 106,40 116,40 116,40" class="ln-a"/>
+              </svg>
+              <h3>Prediction &amp; expectation in vision</h3>
+              <p>How repetition and violated expectations shape the brain's automatic change detection (vMMN), framed by predictive coding.</p>
+              <p class="theme-where">MSc thesis · University of Tehran · 2022–2024</p>
+            </article>
+            <article class="theme">
+              <svg class="theme-art" viewBox="0 0 120 72" aria-hidden="true">
+                <circle cx="22" cy="36" r="6" class="fa"/><circle cx="44" cy="20" r="5" class="fa"/><circle cx="44" cy="52" r="5" class="fa"/>
+                <path d="M22,36 Q32,24 44,20 M22,36 Q32,48 44,52" class="ln-a"/>
+                <path d="M54,36 H66" class="ln"/>
+                <circle cx="78" cy="22" r="4.5" class="fb"/><circle cx="78" cy="50" r="4.5" class="fb"/><circle cx="100" cy="36" r="5.5" class="fb"/>
+                <path d="M78,22 L100,36 M78,50 L100,36 M78,22 L78,50" class="ln-b"/>
+              </svg>
+              <h3>NeuroAI</h3>
+              <p>Neuro-inspired, interpretable deep networks, designed in PyTorch and benchmarked against what we measure in the brain.</p>
+              <p class="theme-where">Ongoing · Mohsenzadeh Lab</p>
+            </article>
+          </div>
+
+          <div class="methods">
+            <h3 class="mini-head">Methods &amp; tools</h3>
+            <ul class="chips chips-academia">
+              <li>EEG (32 &amp; 128 channel)</li><li>fNIRS</li><li>ERP analysis</li><li>MVPA / decoding</li><li>RSA</li><li>Permutation testing</li><li>Predictive coding</li><li>EEGLAB</li><li>FieldTrip</li><li>MNE-Python</li><li>PsychoPy</li><li>MATLAB</li><li>Python</li><li>PyTorch</li>
+            </ul>
+          </div>
+
+          <ol class="labs" aria-label="Labs">
+            <li><span class="labs-year">2025–</span><a href="https://mohsenzadehlab.ca/">Mohsenzadeh Lab</a><span>Western University &amp; Vector Institute</span></li>
+            <li><span class="labs-year">2022–25</span><span class="labs-name">Convergent Technologies Research Center</span><span>University of Tehran</span></li>
+            <li><span class="labs-year">2022–23</span><a href="https://www.genzellab.com/">Genzel Lab</a><span>Donders Institute, Radboud University</span></li>
+          </ol>
+        </div>
+      </section>
+
+      <!-- ============================== APPLIED AI ============================== -->
+      <section class="section section-tint-b" id="applied-ai" data-section="applied-ai">
+        <div class="container">
+          <header class="section-head">
+            <p class="eyebrow eyebrow-industry">Industry</p>
+            <h2>Applied AI, built to be trusted</h2>
+            <p class="section-intro">Foundation models are only as useful as our ability to know when to trust them. That layer is where I focus.</p>
+          </header>
+
+          <div class="applied-grid">
+            <div class="stack-card">
+              <h3 class="mini-head">The stack I work across</h3>
+              <ol class="stack" aria-label="AI stack, from applications down to data">
+                <li class="stack-layer"><span class="stack-name">Applications</span><span class="stack-items">Clinical triage · VQA · developer tools · analytics</span></li>
+                <li class="stack-layer"><span class="stack-name">Agents &amp; orchestration</span><span class="stack-items">LangChain · LangGraph · RAG · FastAPI</span></li>
+                <li class="stack-layer stack-focus"><span class="stack-name"><svg class="i"><use href="#i-spark"/></svg> Trust layer <em>· my focus</em></span><span class="stack-items">Calibration · uncertainty · explainability · evaluation</span></li>
+                <li class="stack-layer"><span class="stack-name">Foundation models</span><span class="stack-items">VLMs (BLIP-2) · LLMs (Gemini, OpenAI) · code models (UniXcoder) · BERT / BEiT</span></li>
+                <li class="stack-layer"><span class="stack-name">Data &amp; infrastructure</span><span class="stack-items">PyTorch · Hugging Face · PostgreSQL · pandas · Git</span></li>
+              </ol>
+            </div>
+
+            <div class="sectors-card">
+              <h3 class="mini-head">Where it applies</h3>
+              <div class="sector-tabs" role="tablist" aria-label="Industry sectors" id="sector-tabs"></div>
+              <div class="sector-panel" id="sector-panel" role="tabpanel" aria-live="polite"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============================== PROJECTS ============================== -->
+      <section class="section" id="projects" data-section="projects">
+        <div class="container">
+          <header class="section-head section-head-row">
+            <div>
+              <p class="eyebrow">Projects</p>
+              <h2>Selected work</h2>
+              <p class="section-intro">Click any image to open the project. Some have interactive figures.</p>
+            </div>
+            <div class="filter" role="group" aria-label="Filter projects">
+              <button type="button" class="filter-btn" data-filter="all" aria-pressed="true">All</button>
+              <button type="button" class="filter-btn" data-filter="academia" aria-pressed="false">Academia</button>
+              <button type="button" class="filter-btn" data-filter="industry" aria-pressed="false">Industry</button>
+            </div>
+          </header>
+          <div class="project-grid" id="project-grid"></div>
+          <noscript><p>Project cards need JavaScript. Browse the code on <a href="https://github.com/SaraRostami">GitHub</a>.</p></noscript>
+        </div>
+      </section>
+
+      <!-- ============================== EXPERIENCE ============================== -->
+      <section class="section section-tint-n" id="experience" data-section="experience">
+        <div class="container">
+          <header class="section-head">
+            <p class="eyebrow">Experience</p>
+            <h2>Where I've worked</h2>
+          </header>
+          <div class="exp-grid">
+            <ol class="timeline" id="timeline"></ol>
+            <aside class="education">
+              <h3 class="mini-head">Education</h3>
+              <ul class="edu-list" id="edu-list"></ul>
+            </aside>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============================== PUBLICATIONS ============================== -->
+      <section class="section" id="publications" data-section="publications">
+        <div class="container">
+          <header class="section-head">
+            <p class="eyebrow">Publications</p>
+            <h2>Papers, manuscripts &amp; reports</h2>
+          </header>
+          <ol class="pubs" id="pubs"></ol>
+        </div>
+      </section>
+
+      <!-- ============================== RECOGNITION ============================== -->
+      <section class="section section-tint-n" id="recognition" data-section="recognition">
+        <div class="container">
+          <header class="section-head">
+            <p class="eyebrow">Recognition</p>
+            <h2>Awards, teaching &amp; talks</h2>
+          </header>
+          <div class="recog-grid">
+            <div>
+              <h3 class="mini-head">Awards</h3>
+              <ul class="recog-list" id="awards"></ul>
+            </div>
+            <div>
+              <h3 class="mini-head">Teaching &amp; talks</h3>
+              <ul class="recog-list" id="teaching"></ul>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ============================== CONTACT ============================== -->
+    <section class="section contact" id="contact">
+      <div class="container contact-inner">
+        <div>
+          <p class="eyebrow">Contact</p>
+          <h2>Let's talk</h2>
+          <p class="section-intro">Open to Applied AI Research Scientist and Data Scientist roles in Toronto / GTA, and to research collaborations in NeuroAI and trustworthy machine learning.</p>
+        </div>
+        <ul class="contact-links">
+          <li><a class="contact-link" href="mailto:sararostami.d98@gmail.com"><svg class="i"><use href="#i-mail"/></svg><span><strong>Email</strong>sararostami.d98@gmail.com</span></a></li>
+          <li><a class="contact-link" href="mailto:srostam7@uwo.ca"><svg class="i"><use href="#i-mail"/></svg><span><strong>University email</strong>srostam7@uwo.ca</span></a></li>
+          <li><a class="contact-link" href="https://linkedin.com/in/sara-rostami-7022181b0"><svg class="i"><use href="#i-linkedin"/></svg><span><strong>LinkedIn</strong>sara-rostami</span></a></li>
+          <li><a class="contact-link" href="https://github.com/SaraRostami"><svg class="i"><use href="#i-github"/></svg><span><strong>GitHub</strong>SaraRostami</span></a></li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>© 2026 Sara Rostami · London, Ontario</p>
+      <p>Languages: English, Persian · Off the clock: reading, painting, ballet, gymnastics, cooking</p>
+    </div>
+  </footer>
+
+  <dialog class="project-dialog" id="project-dialog" aria-labelledby="dlg-title">
+    <div class="dlg-inner">
+      <button type="button" class="icon-btn dlg-close" aria-label="Close project"><svg class="i"><use href="#i-close"/></svg></button>
+      <div class="dlg-body" id="dlg-body"></div>
+    </div>
+  </dialog>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/viz.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
